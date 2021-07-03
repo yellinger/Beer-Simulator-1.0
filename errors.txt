@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 133: expected statement.
+    f open("Kristoforandfriends/file.txt", "w")
+          ^
+
+Ren'Py Version: Ren'Py 7.4.6.1693
+Thu Jul  1 23:27:48 2021
